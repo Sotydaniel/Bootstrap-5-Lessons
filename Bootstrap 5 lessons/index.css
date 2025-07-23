@@ -1,0 +1,149 @@
+/* {
+
+            <div class="hero">
+
+        <div class="container text-center">
+            <div class="row row-cols-auto">
+              <div class="col">Explore</div>
+              <button type="button" class="btn dropdown-toggle" id="dribbble" data-bs-toggle="dropdown"><h6>Hire a Designer</h6>
+            <div class="dropdown-menu">
+      <a class="dropdown-item" href="#">Browse Freelancers</a>
+      <a class="dropdown-item" href="#">Purchase Services</a>
+      <a class="dropdown-item" href="#">Talk to Talent Expert</a>                
+      <a class="dropdown-item" href="#">Post a Full-Time Job</a>
+               </div></button>
+              
+               <a class="btn" href="https://dribbble.com/jobs"><h6><div class="col">Find Jobs</div></h6></a>
+               <a class="btn" href="https://dribbble.com/stories"><h6><div class="col">Blog</div></h6></a>
+            </div>
+        </div>
+        </div>
+    border: 2px solid red;
+} */
+.btn{
+    
+    border-radius: 25px;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: space-evenly;
+ 
+   
+}
+.logo{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+   
+   
+
+}
+.header{
+     
+     display: flex;
+    justify-content: center;
+    align-items: space-between;
+    padding-left: px;
+     /* border: px solid  */
+}
+.col{
+         
+     display: flex;
+     justify-content: center;
+     align-items: space-evenly;
+} 
+#dribbble{
+    display: flex;
+    align-items: center;
+}
+.navbar{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 520px;
+    /* border: 2px solid; */
+}
+.hero{
+    /* border: 2px solid green; */
+    width: 1366px;
+    height: 521px;
+}
+.topleft{
+    font-weight: 300px;
+    font-size: 55px;
+    
+}
+.designbtn{
+    border-radius: 19px;
+    margin:7px;
+}
+.form-control{
+     border-radius: 19px;
+     
+         
+}
+.form-control{
+    border-radius: 27px; 
+    /* border: 2px solid red; */
+    width: 440px; 
+   
+}
+.input{
+    display: flex;
+    /* border: 2px solid red; */
+}
+.popularbtn{
+    display: flex;
+    border-radius: 20px;
+}
+.popularb{
+     display: flex;
+     margin: 7px;
+     flex-direction: row;
+     align-items: center;
+}
+.laptop{
+   
+    display: flex;
+}
+ .left{
+    
+    width: 650px;
+    height: 420px;
+    align-items: center;
+    justify-content: center;
+    margin: 15px;
+    padding: 16px;
+    
+}
+
+/* .right{
+    border: 2px solid green;
+    width: 650px;
+    height: 420px;
+    margin: 20px;
+    
+}  */
+.play{
+    width: 650px;
+    height: 420px;
+    
+    margin-left: 680px;
+    margin-top: -1200px;
+    
+}
+.dropdownbtn{
+    
+    display: flex;
+     align-items: center;
+     justify-content: space-around;
+}
+.footer{
+    display: flex;
+    
+    align-items: ce
+    align-items: space-evenly;
+    
+}
